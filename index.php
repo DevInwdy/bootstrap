@@ -18,7 +18,7 @@
     <![endif]-->
   </head>
   <body>
-		<div class="container-fluid">
+		<div class="container-fluid" style="background: url('/images/banner.jpg') no-repeat; height: 600px;">
 			<h1>Hello, world!</h1>
 		</div>
    
